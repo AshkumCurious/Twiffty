@@ -1,5 +1,13 @@
 # twiffty
 
+
+
+https://github.com/AshkumCurious/Twiffty/assets/77574986/d8ca4bb8-98ee-40b1-9c10-9f2c82fab6f2
+
+
+https://github.com/AshkumCurious/Twiffty/assets/77574986/c5d4b12b-09a0-4530-90a0-b02464d8c6d2
+
+
 A new Flutter project.
 
 ## Getting Started
